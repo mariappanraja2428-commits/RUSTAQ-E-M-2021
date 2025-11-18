@@ -1,0 +1,14 @@
+lib/
+ ├─ main.dart
+ ├─ models/
+ │    └─ record.dart
+ ├─ pages/
+ │    ├─ landing_page.dart
+ │    ├─ data_entry_page.dart
+ │    └─ records_page.dart
+ ├─ providers/
+ │    └─ records_provider.dart
+ └─ widgets/
+      ├─ area_button.dart
+      ├─ photo_upload.dart
+      └─ custom_dropdown.dart
